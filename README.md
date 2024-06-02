@@ -1,3 +1,3 @@
 # price_checker
 
-![public](/before dark mode.png)
+The output images are in the public directory.
